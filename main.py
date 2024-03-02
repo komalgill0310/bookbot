@@ -24,7 +24,6 @@ def count_letters(text):
       dict[char] = 1
   return dict
 
-
 def ch_dict(dict): 
   characters = []
   for ch in dict: 
