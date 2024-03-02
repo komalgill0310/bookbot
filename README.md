@@ -16,17 +16,17 @@ To explore Bookbot, follow these steps:
 
 1. **Clone the Repository**: Open your terminal and run the following command to clone the repository to your local machine:
 ```
-    git clone https://github.com/komalgill0310/bookbot
+  git clone https://github.com/komalgill0310/bookbot
 ```
 
 2. **Navigate to Project Directory**: Move into the project directory using the following command:
 ```
-        cd bookbot
+  cd bookbot
 ```
 
 3. **Run the Script**: Execute the Python script to perform analysis and generate the report.
 ```
-        python bookbot.py
+  python bookbot.py
 ```
 
 Now, you're all set! Witness the magic of Bookbot as it analyzes the text of your favorite books.
